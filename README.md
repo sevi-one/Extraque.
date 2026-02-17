@@ -1,7 +1,5 @@
 # Extraque.
-Companion for (ex)pense (tra)cking in every uni(que) transaction, paying bills on time, and smashing your savings goals.
-
-## Run Locally
+Companion for uni(que) (ex)pense (tra)cking experience.
 
 **Prerequisites:**  Node.js
 
